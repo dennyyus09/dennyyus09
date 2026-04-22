@@ -1,4 +1,4 @@
-### Hi, It's Denny!
+### Hi, it's Denny!
 
 Product person based in Jakarta, Indonesia. Currently Head of Product at [CloudEats](https://cloudeats.com) and consulting for [LaunchGood](https://launchgood.com). Previously worked at [Kitabisa](https://kitabisa.com) and several tech companies.
 

@@ -7,4 +7,4 @@ My path into product came through a computer science background and hands-on exp
 Outside of work: JRPGs (e.g., Final Fantasy, Xenoblade Chronicles, Tales of, Pokémon), manga/manhwa, learning Japanese, and occasionally thinking a bit about mathematics.
 
 **Find me elsewhere**
-[dennyyus09.github.io](https://dennyyus09.github.io) · [LinkedIn](https://linkedin.com/in/dennyyus) · [Twitter](https://twitter.com/dennyyus)
+[Site](https://dennyyus09.github.io) · [LinkedIn](https://linkedin.com/in/dennyyus) · [Twitter](https://twitter.com/dennyyus)

@@ -6,5 +6,13 @@ My path into product came through a computer science background and hands-on exp
 
 Outside of work: JRPGs (e.g., Final Fantasy, Xenoblade Chronicles, Tales of, Pokémon), manga/manhwa, learning Japanese, and occasionally thinking a bit about mathematics.
 
+**Projects**
+
+[ChampLab](https://champlab.dennyyus.workers.dev/) — Pokemon champion learning tool for beginners
+
+[Seerah Daily Summarizer](https://seerahdailysummarizer.netlify.app/) — AI-generated daily email summaries of Shaykh Yasir Qadhi's Seerah lecture series
+
+[Seerah Atlas](https://seerahatlas.netlify.app/) — Interactive map through the life of the Prophet
+
 **Find me elsewhere**
 [Site](https://dennyyus09.github.io) · [LinkedIn](https://linkedin.com/in/dennyyus) · [Twitter](https://twitter.com/dennyyus)

@@ -1,6 +1,6 @@
 ### Hi, it's Denny!
 
-Product person based in Jakarta, Indonesia. Currently Head of Product at [CloudEats](https://cloudeats.com) and consulting for [LaunchGood](https://launchgood.com). Previously worked at [Kitabisa](https://kitabisa.com) and several tech companies.
+Product person based in Jakarta, Indonesia. Most recently Head of Product at [CloudEats](https://cloudeats.com), consulting for [LaunchGood](https://launchgood.com). Previously worked at [Kitabisa](https://kitabisa.com) and several tech companies.
 
 My path into product came through a computer science background and hands-on experience as a full-stack developer. After a year in the trenches writing code, I recognized that my true calling lay elsewhere, and made the move into product management. These days, my focus sits squarely at the intersection of product sense, product strategy, and the growing role of AI in shaping both.
 
@@ -8,11 +8,11 @@ Outside of work: JRPGs (e.g., Final Fantasy, Xenoblade Chronicles, Tales of, Pok
 
 **Projects**
 
-[ChampLab](https://champlab.dennyyus.workers.dev/) — Pokemon champion learning tool for beginners
+[ChampLab](https://champlab.dennyyus.workers.dev/) — Pokémon Champions learning tool for beginners
 
 [Seerah Daily Summarizer](https://seerahdailysummarizer.netlify.app/) — AI-generated daily email summaries of Shaykh Yasir Qadhi's Seerah lecture series
 
 [Seerah Atlas](https://seerahatlas.netlify.app/) — Interactive map through the life of the Prophet
 
 **Find me elsewhere**
-[Site](https://dennyyus09.github.io) · [LinkedIn](https://linkedin.com/in/dennyyus) · [Twitter](https://twitter.com/dennyyus)
+[Site](https://dennyyus.github.io) · [LinkedIn](https://linkedin.com/in/dennyyus) · [Twitter](https://twitter.com/dennyyus)
